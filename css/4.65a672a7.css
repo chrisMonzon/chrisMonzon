@@ -1,0 +1,1 @@
+.box-black{background-color:#6e0000}.box-red{background-color:#000}.box-blue{background-color:#00f}.king{content:"X"}.box{width:100%;height:100%;border-radius:50%;z-index:1;position:relative}.content{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
