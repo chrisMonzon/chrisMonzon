@@ -1,6 +1,8 @@
 ## About me
 
-Passionate Computer Science student with a focus on computer graphics, media, and data visualization. Skilled in collaboration and problem-solving, I thrive in dynamic environments where creativity and technical expertise intersect. I am eager to contribute and enhance my skills to help develop innovative solutions.
+- Passionate Computer Science student with a focus on computer graphics, media, and data visualization.
+- Skilled in collaboration and problem-solving, I thrive in dynamic environments where creativity and technical expertise intersect.
+- I am eager to contribute and enhance my skills to help develop innovative solutions.
 
 https://chrismonzon.github.io/
 
