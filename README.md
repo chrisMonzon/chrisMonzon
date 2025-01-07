@@ -1,7 +1,12 @@
-## Hi there 👋
+## About me
+
+Passionate Computer Science student with a focus on computer graphics, media, and data visualization. Skilled in collaboration and problem-solving, I thrive in dynamic environments where creativity and technical expertise intersect. I am eager to contribute and enhance my skills to help develop innovative solutions.
+
+https://chrismonzon.github.io/
 
 <!--
 **chrisMonzon/chrisMonzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
